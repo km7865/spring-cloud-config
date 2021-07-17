@@ -1,7 +1,7 @@
 token:
-  expiration_time: 864
-  secret: value_changed
+  expiration_time: 864000
+  secret: 123123
 
 gateway:
-  ip: host.docker.internal
+  ip: 127.0.0.1
   
